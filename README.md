@@ -1,4 +1,4 @@
-_Passo a Passo: Criação de uma Página Interativa de Frutas_ 🍓🍊🥑
+# *_Passo a Passo: Criação de uma Página Interativa de Frutas_* 🍓🍊🥑
 
 Tutorial sobre como criar uma página web interativa utilizando HTML, CSS e JavaScript. A página exibe frutas e seus respectivos refrigerantes, permitindo que o usuário navegue entre as opções.
 
